@@ -13,7 +13,7 @@ public class BookController
 	public List<Book> getAllBooks()
 	{
 		ArrayList<Book> books = new ArrayList<Book>();
-		books.add(new Book(1, "DS & Algo", "Author A"));
+		books.add(new Book(1, "DS & Algo", "Author AB"));
 		books.add(new Book(2, "String 5.0 ", "Author B"));
 		books.add(new Book(2, "Java 8.0 ", "Author C"));
 		return books;

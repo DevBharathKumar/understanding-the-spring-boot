@@ -36,6 +36,13 @@
 		    <artifactId>spring-data-rest-hal-explorer</artifactId>
 		</dependency>
 
+		<!-- Adding the dependencies for devtools -->
+	
+		<dependency>
+		    <groupId>org.springframework.boot</groupId>
+		    <artifactId>spring-boot-devtools</artifactId>
+		</dependency>
+		
 		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
